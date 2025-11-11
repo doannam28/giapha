@@ -1,0 +1,150 @@
+ERROR - 2025-06-21 12:23:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/ketsatph/nguyendinhhongthanh.vn/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 16:49:04 --> Severity: error --> Exception: Table 'giaphah1_db.st_users' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:49:10 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:50:32 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:50:33 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:50:41 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:51:38 --> Severity: error --> Exception: Table 'giaphah1_db.st_users' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:53:21 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:54:15 --> Severity: error --> Exception: Table 'giaphah1_db.st_setting' doesn't exist /home/giaphah1/public_html/system/database/drivers/mysqli/mysqli_driver.php 305
+ERROR - 2025-06-21 16:56:56 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 16:56:56 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 16:56:56 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 16:56:56 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 16:56:56 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 16:59:54 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 16:59:54 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 16:59:54 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 16:59:54 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 16:59:54 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:01:11 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 17:01:11 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 17:01:11 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 17:01:11 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 17:01:11 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:01:21 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 17:01:21 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 17:01:21 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 17:01:21 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 17:01:21 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:02:14 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 17:02:14 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 17:02:14 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 17:02:14 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 17:02:14 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:03:31 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 17:03:31 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 17:03:31 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 17:03:31 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 17:03:31 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:03:38 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 17:03:38 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 17:03:38 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 17:03:38 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 17:03:38 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 17:08:20 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 17:08:26 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 17:58:35 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 17:58:41 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 17:59:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 18:00:23 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 18:01:39 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 18:57:56 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:57:56 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:57:56 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:57:56 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:57:56 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:57:58 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:57:58 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:57:58 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:57:58 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:57:58 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:58:00 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:58:00 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:58:00 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:58:00 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:58:00 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:06 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:06 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:06 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:06 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:06 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:07 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:07 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:07 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:07 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:07 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:09 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:09 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:09 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:09 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:09 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:10 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:10 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:10 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:10 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:10 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:11 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:11 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:11 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:11 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:11 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 18:59:20 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 18:59:20 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 18:59:20 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 18:59:20 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 18:59:20 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 19:02:38 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 19:02:38 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 19:02:38 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 19:02:38 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 19:02:38 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 19:03:18 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 19:11:38 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 19:11:41 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 19:11:42 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 19:11:42 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 19:11:43 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 20:05:51 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 20:05:51 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 20:05:51 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 20:05:51 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 20:05:51 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 20:05:53 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 20:05:53 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 20:05:53 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 20:05:53 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 20:05:53 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 20:05:54 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 20:05:54 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 20:05:54 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 20:05:54 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 20:05:54 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 20:22:07 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 20:50:05 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 22:00:10 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 22:00:10 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 22:00:10 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 22:00:10 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 22:00:10 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 22:32:21 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 22:32:21 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 22:32:21 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 22:32:21 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 22:32:21 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 22:36:20 --> Severity: Warning --> Attempt to read property "husband_id" on null /home/giaphah1/public_html/application/controllers/admin/Family.php 261
+ERROR - 2025-06-21 22:36:57 --> Severity: Warning --> Attempt to read property "husband_id" on null /home/giaphah1/public_html/application/controllers/admin/Family.php 261
+ERROR - 2025-06-21 22:45:53 --> Severity: Warning --> Attempt to read property "qr_image" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 87
+ERROR - 2025-06-21 22:45:53 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 94
+ERROR - 2025-06-21 22:45:53 --> Severity: Warning --> Attempt to read property "banknumber" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 95
+ERROR - 2025-06-21 22:45:53 --> Severity: Warning --> Attempt to read property "bankname" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 96
+ERROR - 2025-06-21 22:45:53 --> Severity: Warning --> Attempt to read property "content" on null /home/giaphah1/public_html/application/views/public/default/fund/index.php 98
+ERROR - 2025-06-21 22:46:56 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 22:47:47 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 22:49:04 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-06-21 23:11:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532

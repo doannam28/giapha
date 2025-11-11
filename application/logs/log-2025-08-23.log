@@ -1,0 +1,10 @@
+ERROR - 2025-08-23 15:07:12 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Undefined array key 0 /home/giaphah1/public_html/application/controllers/Family.php 270
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "id" on null /home/giaphah1/public_html/application/controllers/Family.php 271
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "id" on null /home/giaphah1/public_html/application/controllers/Family.php 273
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "full_name" on null /home/giaphah1/public_html/application/controllers/Family.php 279
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "parent_id" on null /home/giaphah1/public_html/application/controllers/Family.php 281
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "id" on null /home/giaphah1/public_html/application/controllers/Family.php 285
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "id" on null /home/giaphah1/public_html/application/controllers/Family.php 286
+ERROR - 2025-08-23 15:07:20 --> Severity: Warning --> Attempt to read property "id" on null /home/giaphah1/public_html/application/controllers/Family.php 289
+ERROR - 2025-08-23 18:18:19 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Home does not have a method "notfound" /home/giaphah1/public_html/system/core/CodeIgniter.php 532

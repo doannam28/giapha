@@ -1,0 +1,506 @@
+ERROR - 2024-11-29 13:57:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:57:37 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 13:57:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:58:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:58:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:59:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:59:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:59:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 13:59:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:01:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:01:23 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 18
+ERROR - 2024-11-29 14:01:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:02:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:02:04 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:02:05 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:02:54 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:02:54 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 24
+ERROR - 2024-11-29 14:02:55 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:03:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:03:13 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 24
+ERROR - 2024-11-29 14:04:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:04:27 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 24
+ERROR - 2024-11-29 14:04:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:06:22 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:06:23 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:06:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:07:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:07:35 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:07:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:08:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:08:44 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:08:46 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:09:54 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:09:55 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:09:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:10:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:10:29 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:10:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:10:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:10:58 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:11:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:11:30 --> Severity: Warning --> Undefined variable $content_home D:\laragon\www\ketsatphugiaan.vn\application\views\public\default\product\category.php 22
+ERROR - 2024-11-29 14:11:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:12:54 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:12:55 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:13:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:13:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:01 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:05 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:14:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:07 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:14:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:11 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:14:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:18 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:14:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:25 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:14:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:14:48 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:15:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:15:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:15:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:15:40 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:15:40 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:16:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:00 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:17:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:01 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:01 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:28 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:17:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:17:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:29 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:18:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:31 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:36 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:18:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:18:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:41 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:47:41 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:41 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:47:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:53 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:55 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:49:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:49:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:34 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:50:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:50:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:20 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:25 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:57:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:33 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:57:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:57:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:19 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:22 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:58:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:25 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:25 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:58:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:11 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:59:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:14 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:44 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 14:59:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:46 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 14:59:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:05 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:02:05 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:53 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:56 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:02:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:02:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:03:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:03:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:17 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:04:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:18 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:18 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:19 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:20 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:20 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:22 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:39 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:04:40 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:40 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:41 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:41 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:04:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:24 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:06:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:25 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:06:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:41 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:42 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:07:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:46 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:07:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:19 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:20 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:08:20 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:22 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:22 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:08:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:25 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:09:25 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:27 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:28 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:29 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:09:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:11 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:13 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:10:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:14 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:10:18 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:33 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:34 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:12:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:12:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:15:44 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 305
+ERROR - 2024-11-29 15:15:59 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 305
+ERROR - 2024-11-29 15:16:23 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 306
+ERROR - 2024-11-29 15:16:42 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 306
+ERROR - 2024-11-29 15:16:54 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 307
+ERROR - 2024-11-29 15:19:19 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 307
+ERROR - 2024-11-29 15:19:32 --> Severity: error --> Exception: syntax error, unexpected variable "$this" D:\laragon\www\ketsatphugiaan.vn\application\controllers\Product.php 307
+ERROR - 2024-11-29 15:23:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:52 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:23:52 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:53 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:54 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:54 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:55 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:23:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:46 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:24:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:24:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:06 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:25:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:56 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:25:59 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:26:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:01 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:01 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:03 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:03 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:26:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:27:39 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:27:40 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:27:40 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:27:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:28:00 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:28:00 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:28:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:28:08 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:28:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:29:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:29:11 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:29:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:29:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:29:50 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:29:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:30:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:30:49 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:30:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:32:19 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:32:21 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:32:22 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:33:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:33:06 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:33:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:34:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:34:49 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:34:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:36:05 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:36:08 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:36:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:36:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:36:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:43:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:43:24 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:43:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:43:25 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:43:26 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:44:13 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:44:14 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:44:14 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:44:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:44:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:49:47 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:49:49 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:49:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:49:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:49:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:03 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:04 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:50:04 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:05 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:05 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:33 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 15:50:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:35 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:50:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:51:02 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:51:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 15:51:16 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:00:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:34 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:38 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:00:40 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:43 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:00:43 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:49 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:00:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:00:50 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:01:18 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:46 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:50 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:04:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:51 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:57 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:04:58 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:03 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:30 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:05:32 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:07:03 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:05 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:07:06 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:08 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:07:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:22 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:07:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:07:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:36 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:37 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:08:37 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:08:45 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:08:59 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:01 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:09:01 --> Severity: Compile Error --> Array and string offset access syntax with curly braces is no longer supported D:\laragon\www\ketsatphugiaan.vn\application\libraries\Profiler.php 118
+ERROR - 2024-11-29 16:09:07 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:09 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:09:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:38 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:41 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:09:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:46 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:09:48 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:49 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:09:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:09:49 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:08 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:09 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:10 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:12 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:14 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:14 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:15 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:16 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:17 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:19 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:20 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:21 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:23 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:24 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:10:25 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:12:42 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:12:44 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/
+ERROR - 2024-11-29 16:12:44 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:12:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:12:45 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:13:32 --> Cache adapter "file" and backup "file" are both unavailable. Cache is now using "Dummy" adapter.
+ERROR - 2024-11-29 16:13:35 --> Unable to write cache file: D:\laragon\www\ketsatphugiaan.vn\application\cache/

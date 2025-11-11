@@ -1,0 +1,59 @@
+ERROR - 2024-12-07 16:46:14 --> 404: 
+ERROR - 2024-12-07 16:46:14 --> /gioi-thieu.html
+ERROR - 2024-12-07 16:48:47 --> 404: 
+ERROR - 2024-12-07 16:48:47 --> /gioi-thieu.html
+ERROR - 2024-12-07 16:55:51 --> 404: 
+ERROR - 2024-12-07 16:55:51 --> /tin-tuc.html
+ERROR - 2024-12-07 17:00:16 --> 404: 
+ERROR - 2024-12-07 17:00:16 --> /tin-tuc.html
+ERROR - 2024-12-07 17:00:54 --> 404: 
+ERROR - 2024-12-07 17:00:54 --> /dia-chi-mua-ket-sat-chinh-hang-tai-quan-7.html
+ERROR - 2024-12-07 17:49:35 --> 404: 
+ERROR - 2024-12-07 17:49:35 --> /dia-chi-mua-ket-sat-chinh-hang-tai-huyen-can-gio.html
+ERROR - 2024-12-07 21:13:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:13:43 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55
+ERROR - 2024-12-07 21:36:02 --> Severity: Warning --> A non-numeric value encountered D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 53
+ERROR - 2024-12-07 21:36:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:36:02 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55
+ERROR - 2024-12-07 21:36:32 --> Severity: Warning --> A non-numeric value encountered D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 53
+ERROR - 2024-12-07 21:36:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:36:32 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55
+ERROR - 2024-12-07 21:36:34 --> Severity: Warning --> A non-numeric value encountered D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 53
+ERROR - 2024-12-07 21:36:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:36:34 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55
+ERROR - 2024-12-07 21:43:01 --> Severity: Warning --> A non-numeric value encountered D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 53
+ERROR - 2024-12-07 21:43:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:43:01 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55
+ERROR - 2024-12-07 21:44:35 --> Severity: Warning --> A non-numeric value encountered D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 53
+ERROR - 2024-12-07 21:44:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 6 - Invalid query: SELECT `a`.`id`, `a`.`title`, `a`.`slug`, `a`.`thumbnail`, `a`.`description`, `a`.`created_time`, `a`.`updated_time`, `a`.`content`
+FROM `st_post` `a`
+JOIN `st_post_category` `b` ON `a`.`id` = `b`.`post_id`
+WHERE `b`.`category_id` IN(111)
+ORDER BY `a`.`created_time` DESC
+ LIMIT -10, 10
+ERROR - 2024-12-07 21:44:35 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ketsatphugiaan.vn\application\models\Post_model.php 55

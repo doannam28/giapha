@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc3f6727-b062-43d0-8c57-051e2dda51b0" name="hoangtoc98.com.vn" url="http://14.225.231.69">
+        <fileTransfer rootFolder="/public_html" host="14.225.231.69" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

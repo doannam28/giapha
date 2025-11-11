@@ -1,0 +1,2 @@
+ERROR - 2025-02-08 22:31:51 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/ketsatph/nguyendinhhongthanh.vn/system/core/CodeIgniter.php 532
+ERROR - 2025-02-08 22:32:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/ketsatph/nguyendinhhongthanh.vn/system/core/CodeIgniter.php 532

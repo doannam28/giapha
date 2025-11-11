@@ -1,0 +1,1 @@
+ERROR - 2024-11-13 10:15:07 --> Severity: error --> Exception: Session: Configured save path 'C:\Windows\Temp' is not writable by the PHP process. D:\laragon\www\ketsatphugiaan.vn\system\libraries\Session\drivers\Session_files_driver.php 143

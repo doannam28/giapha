@@ -1,0 +1,79 @@
+.footer {
+  background-color: $primary_01;
+  color: $white;
+  .content {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0 30px;
+    @media (max-width: $mb) {
+      flex-direction: column;
+      padding: 20px 0 32px;
+    }
+  }
+  .logo {
+    font-weight: bold;
+  }
+  .info {
+    margin-top: 12px;
+    font-size: 14px;
+    line-height: 20px;
+    @media (max-width: $mb) {
+      font-size: 14px;
+      line-height: 3rem;
+    }
+  }
+  .nav {
+    @media (max-width: $mb) {
+      margin-top: 24px;
+    }
+    &__list {
+      display: flex;
+      gap: 16px;
+      font-size: 14px;
+      @media (max-width: $mb) {
+        flex-direction: column;
+        gap: 8px;
+      }
+    }
+  }
+  .contact {
+    margin-top: 28px;
+    flex-direction: column;
+    gap: 0;
+    @media (max-width: $mb) {
+      margin-top: 24px;
+      gap: 0;
+    }
+    p {
+      font-weight: bold;
+    }
+    &__list {
+      display: flex;
+      gap: 12px;
+      margin-top: 12px;
+    }
+    &__item {
+      flex: none;
+    }
+  }
+  .more {
+    text-align: center;
+    padding: 10px;
+    background: $primary_02;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    a {
+      margin-left: 12px;
+      font-weight: 500;
+      border-bottom: 1px solid;
+      @media (max-width: $mb) {
+        margin-left: 10px;
+      }
+      img {
+        margin-left: 2px;
+        vertical-align: top;
+      }
+    }
+  }
+}

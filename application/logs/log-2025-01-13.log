@@ -1,0 +1,467 @@
+ERROR - 2025-01-13 04:45:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:02:50 --> 404: 
+ERROR - 2025-01-13 08:02:50 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:02:50 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:02:50 --> 404: 
+ERROR - 2025-01-13 08:02:50 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:02:50 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:03:05 --> 404: 
+ERROR - 2025-01-13 08:03:05 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:03:05 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:03:06 --> 404: 
+ERROR - 2025-01-13 08:03:06 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:03:06 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:03:06 --> 404: 
+ERROR - 2025-01-13 08:03:06 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:03:06 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:03:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:03:09 --> 404: 
+ERROR - 2025-01-13 08:03:09 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:03:09 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:03:09 --> 404: 
+ERROR - 2025-01-13 08:03:09 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:03:09 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:11:02 --> 404: 
+ERROR - 2025-01-13 08:11:02 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:11:02 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:11:02 --> 404: 
+ERROR - 2025-01-13 08:11:02 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:11:02 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:49:47 --> 404: 
+ERROR - 2025-01-13 08:49:47 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:49:47 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:49:47 --> 404: 
+ERROR - 2025-01-13 08:49:47 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:49:47 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:49:58 --> 404: 
+ERROR - 2025-01-13 08:49:58 --> /uploads/7b2514848066fa0ab120ed190b1fa6f7.jpg
+ERROR - 2025-01-13 08:49:58 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/e6132b17ab672d3b07ecbb82a7d872a1.jpg
+ERROR - 2025-01-13 08:50:12 --> /uploads/5419462304f621c9c52717f26ad3b8cd.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/0252ea325ebf274f815bae6914652354.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/1feddd1f60a6f00a103b12887ffb6a74.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/c8dbc712c6bb4237cf1f30a76901a9ef.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/ec0a9976a86f7b63c4841c2a265c95b4.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:50:12 --> 404: 
+ERROR - 2025-01-13 08:50:12 --> /uploads/7b2514848066fa0ab120ed190b1fa6f7.jpg
+ERROR - 2025-01-13 08:50:12 --> Severity: error --> Exception: Call to undefined function site_url() /home/giaphaho/giapha.webest.asia/application/views/errors/html/error_404.php 12
+ERROR - 2025-01-13 08:51:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:52:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:53:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:53:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:54:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:54:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:54:51 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:54:56 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:54:57 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:13 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 08:55:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:05:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:05:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:05:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:05:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:10:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:10:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:16:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:17:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:17:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:17:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:17:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:17:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:19:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:21:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:21:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:22:01 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:23:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:24:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:25:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:25:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:25:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:25:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:40 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:27:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:29:56 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:31:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:31:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:33:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:34:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 09:35:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:34:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:35:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:36:28 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:36:49 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:39:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:39:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:40:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:40:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:40:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:47:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:47:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:50:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:50:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:51:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:51:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:57:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 11:58:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:03:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:07:11 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:15:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:15:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:16:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:16:56 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:16:57 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:16:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:17:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:17:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:17:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:17:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:19:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:20:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:21:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:21:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:34:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:40 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:48:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 12:54:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' /home/giaphaho/giapha.webest.asia/system/core/CodeIgniter.php 532
+ERROR - 2025-01-13 13:18:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:25:41 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:26:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:29:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:29:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:31:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:34:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:34:06 --> Severity: Notice --> Undefined property: Family::$_data D:\laragon\www\giapha\application\controllers\Family.php 397
+ERROR - 2025-01-13 13:34:06 --> Severity: error --> Exception: Call to a member function getDataAll() on null D:\laragon\www\giapha\application\controllers\Family.php 397
+ERROR - 2025-01-13 13:34:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:34:52 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:35:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:36:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:36:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:37:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:37:59 --> Severity: Notice --> Undefined variable: output D:\laragon\www\giapha\application\controllers\Family.php 409
+ERROR - 2025-01-13 13:38:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:39:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:39:14 --> Severity: Notice --> Undefined variable: output D:\laragon\www\giapha\application\controllers\Family.php 433
+ERROR - 2025-01-13 13:39:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:40:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:40:09 --> Severity: Notice --> Undefined variable: output D:\laragon\www\giapha\application\controllers\Family.php 433
+ERROR - 2025-01-13 13:41:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:30 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:34 --> Severity: Notice --> Undefined property: stdClass::$peson_name D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:41:57 --> Severity: Notice --> Undefined property: stdClass::$full_title D:\laragon\www\giapha\application\controllers\Family.php 439
+ERROR - 2025-01-13 13:42:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:52:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:52:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 13:53:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:00:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:04:49 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:06:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:07:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:10:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:10:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:12:58 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:13:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:28:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:29:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:29:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:30:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:31:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:31:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:32:41 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:33:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:33:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:46:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:46:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:48:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:50:01 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:50:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:57:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:57:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:57:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:57:40 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:59:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:59:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:59:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:59:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 14:59:41 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:01:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:03:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:08:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:09:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:09:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:10:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:10:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:11:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:26:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:28:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:29:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:35:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:36:42 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:36:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:37:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:38:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:38:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:38:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:38:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:39:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:39:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:40:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:40:40 --> Severity: Notice --> Undefined variable: processedData D:\laragon\www\giapha\application\views\public\default\pdf\phado.php 74
+ERROR - 2025-01-13 15:43:56 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 15:46:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:12:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:13:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:15:51 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:19:09 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 334
+ERROR - 2025-01-13 16:19:09 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 334
+ERROR - 2025-01-13 16:19:09 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 334
+ERROR - 2025-01-13 16:19:09 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 334
+ERROR - 2025-01-13 16:19:09 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 334
+ERROR - 2025-01-13 16:19:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:26:17 --> Severity: error --> Exception: Cannot use object of type stdClass as array D:\laragon\www\giapha\application\controllers\Family.php 325
+ERROR - 2025-01-13 16:26:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:27:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:27:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:33:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:37:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:38:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:39:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:43:28 --> Severity: Notice --> Undefined variable: tree D:\laragon\www\giapha\application\controllers\Family.php 362
+ERROR - 2025-01-13 16:43:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:48:48 --> Severity: error --> Exception: Cannot use object of type stdClass as array D:\laragon\www\giapha\application\controllers\Family.php 330
+ERROR - 2025-01-13 16:48:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 16:53:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:00:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:02:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:03:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:03:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:05:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:06:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:12:14 --> Severity: Warning --> extract() expects parameter 1 to be array, string given D:\laragon\www\giapha\application\core\STEVEN_Model.php 90
+ERROR - 2025-01-13 17:12:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:21:42 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 333
+ERROR - 2025-01-13 17:21:42 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 333
+ERROR - 2025-01-13 17:21:42 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 333
+ERROR - 2025-01-13 17:21:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:42:37 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:37 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:37 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:42:37 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:42:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:42:38 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:38 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:38 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:42:38 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:42:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:42:39 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:42:39 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:42:40 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:42:42 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:42 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:42:42 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:42:42 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:42:43 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:47:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:47:29 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:47:29 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:47:29 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:47:29 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:47:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 17:55:47 --> Severity: Notice --> Trying to get property 'father_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:55:47 --> Severity: Notice --> Trying to get property 'mother_id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 361
+ERROR - 2025-01-13 17:55:47 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 376
+ERROR - 2025-01-13 17:55:47 --> Severity: Notice --> Trying to get property 'id' of non-object D:\laragon\www\giapha\application\controllers\Family.php 394
+ERROR - 2025-01-13 17:55:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 18:19:36 --> Severity: Notice --> Trying to get property 'gender' of non-object D:\laragon\www\giapha\application\views\public\default\phado\chi_tiet.php 138
+ERROR - 2025-01-13 22:03:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:04:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:04:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:09:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:11:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:12:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:12:48 --> Severity: error --> Exception: syntax error, unexpected '$child' (T_VARIABLE) D:\laragon\www\giapha\application\controllers\Family.php 393
+ERROR - 2025-01-13 22:12:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:12:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:14:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:14:12 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:14:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:14:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:16:56 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:33:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:39:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:40:46 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:40:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:47:34 --> Severity: Notice --> Undefined index: typee D:\laragon\www\giapha\application\controllers\Family.php 368
+ERROR - 2025-01-13 22:47:34 --> Severity: Notice --> A non well formed numeric value encountered D:\laragon\www\giapha\application\controllers\Family.php 491
+ERROR - 2025-01-13 22:47:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:50:18 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:53:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:54:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 22:54:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 23:28:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 23:28:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2025-01-13 23:28:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532

@@ -1,0 +1,23 @@
+{
+  "name": "grunt",
+  "version": "1.3.2",
+  "description": "Các bước Start soure",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/vinhnt333/cims.git"
+  },
+  "author": "thinh",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vinhnt333/cims#readme",
+  "devDependencies": {},
+  "keywords": [
+    "grunt",
+    "build"
+  ],
+  "dependencies": {}
+}

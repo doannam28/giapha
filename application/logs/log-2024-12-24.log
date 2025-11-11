@@ -1,0 +1,30 @@
+ERROR - 2024-12-24 00:16:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:16:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:16:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:16:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:32:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:37:30 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:30 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:30 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:30 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:32 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:32 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:32 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:37:32 --> Severity: Notice --> Undefined offset: 3 D:\laragon\www\giapha\application\views\admin\_sidebar.php 73
+ERROR - 2024-12-24 00:41:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:41:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:50:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:52:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:56:30 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\laragon\www\giapha\system\libraries\Session\Session.php 143
+ERROR - 2024-12-24 00:56:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:56:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 00:59:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:01:49 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:01:57 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:02:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:02:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:08:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:08:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:09:57 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:11:05 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
+ERROR - 2024-12-24 01:12:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'notfound' D:\laragon\www\giapha\system\core\CodeIgniter.php 532
