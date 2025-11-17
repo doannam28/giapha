@@ -1643,7 +1643,7 @@ html {
 .resume__avatar {
   width: 228px;
   height: 228px;
-  mix-blend-mode: luminosity;
+ /* mix-blend-mode: luminosity;*/
   border-radius: 16px;
   overflow: hidden; }
   @media (max-width: 575px) {

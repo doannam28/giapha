@@ -15,7 +15,7 @@
                         <col style="width: 150px" />
                         <col style="width: 150px" />
                         <col style="width: 150px" />
-                        <col style="width: 150px" />
+                        <!--<col style="width: 150px" />-->
                         <col style="width: 150px" />
                     </colgroup>
 
@@ -25,7 +25,7 @@
                             <th>Họ và tên</th>
                             <th>Đời thứ</th>
                             <th>Tên bố</th>
-                            <th>Số điện thoại</th>
+                           <!-- <th>Số điện thoại</th>-->
                             <th>Nghề nghiệp</th>
                         </tr>
                     </thead>
@@ -45,7 +45,7 @@
                                             <?= $user['father_name']; ?> <?= !empty($user['mother_name']) ? '('.$user['mother_name'].')':''; ?>
                                         <?php endif; ?>
                                     </td>
-                                    <td style="min-width:150px;"><?= $user['phone']; ?></td>
+                                   <!-- <td style="min-width:150px;"><?/*= $user['phone']; */?></td>-->
                                     <td><?= $user['job_title']; ?></td>
                                 </tr>
                                 <?php $i++; ?>
