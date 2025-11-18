@@ -190,16 +190,27 @@ $(function () {
                         element.val(value);
                         if (element.hasClass('switchBootstrap')) {
                             element.bootstrapSwitch('state', (value == 1 ? true : false));
-                        };
+                        }
                         if (key === 'thumbnail' && value) element.closest('.form-group').find('img').attr('src', media_url + value);
                         if (key === 'album' && value) FUNC.loadMultipleMedia(value);
                         if (key === 'status' && value == 'Sống') {
                             modal_form.find('[name="date_die"]').prop('disabled', true);
-                        };
+                        }
                         if (key === 'status' && value == 'Mất') {
                             modal_form.find('[name="date_die"]').prop('disabled', false);
-                        };
-
+                        }
+                        if (key === 'description') {
+                            if (tinymce.get('description')) {
+                                tinymce.get('description').setContent(value);
+                            } else {
+                                tinymce.on('AddEditor', function (e) {
+                                    if (e.editor.id === 'description') {
+                                        e.editor.setContent(value);
+                                    }
+                                });
+                            }
+                            return;
+                        }
                         if (key === 'role') {
                             if (value == 'Vợ' || value == 'Vợ cả') {
                                 $('.wife').hide();

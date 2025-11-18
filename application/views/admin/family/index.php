@@ -153,7 +153,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     <div class="col-12">
                                         <div class="form-group">
                                             <label>Phả ký</label>
-                                            <textarea name="description" class="form-control tinymce" rows="5"></textarea>
+                                            <textarea name="description" id="description" class="form-control tinymce" rows="5"></textarea>
                                         </div>
                                     </div>
                                 </div>

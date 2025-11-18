@@ -228,7 +228,7 @@ class Graduate extends Admin_Controller
         $this->checkRequestPostAjax();
         $id = $this->input->post('id');
         if (!empty($id)) {
-            $output['data_info'] = $this->_graduate->single(['person_id' => $id], $this->_graduate->table);
+            $output['data_info'] = $this->_graduate->single(['id' => $id], $this->_graduate->table);
             $output['data_category'] = $this->_data->getSelect2Fullname($id);
             $this->returnJson($output);
         }
@@ -276,7 +276,7 @@ class Graduate extends Admin_Controller
     {
         $this->checkRequestPostAjax();
         $ids = (int) $this->input->post('id');
-        $response = $this->_graduate->deleteArray('person_id', $ids);
+        $response = $this->_graduate->deleteArray('id', $ids);
         if ($response != false) {
             $message['type'] = 'success';
             $message['message'] = "Xóa thành công !";
