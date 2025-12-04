@@ -168,10 +168,13 @@
         </form>
     </div>
 </div>
+<div id="pdf-content" style="position:absolute; left:-9999px; top:0; width:794px; padding:10px; box-sizing:border-box; background:#fff;"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
 <script>
     const url = '<?= base_url('pdf/gia_pha'); ?>';
     const urlTU = '<?= base_url('gia-pha/toc-uoc'); ?>';
@@ -324,7 +327,7 @@
                 }
 
                 if (checkbox.value == 'toc-uoc') {
-                    fetchAndGeneratePDF(urlTU, '.post', 'Toc_uoc.pdf');
+                    fetchAndGeneratePDF(urlTU, 'Toc_uoc');
                 }
 
                 if (checkbox.value == 'huong-hoa') {
@@ -334,90 +337,82 @@
         });
     });
 
-    function fetchAndGeneratePDF(url, className, pdfName) {
+    function fetchAndGeneratePDF(url, pdfName) {
         const loadingIndicator = document.createElement('div');
         loadingIndicator.innerText = 'Đang tạo PDF...';
         loadingIndicator.style.position = 'fixed';
         loadingIndicator.style.top = '50%';
         loadingIndicator.style.left = '50%';
         loadingIndicator.style.transform = 'translate(-50%, -50%)';
-        loadingIndicator.style.backgroundColor = 'rgba(0, 0, 0, 0.7)';
+        loadingIndicator.style.backgroundColor = 'rgba(0,0,0,0.7)';
         loadingIndicator.style.color = 'white';
         loadingIndicator.style.padding = '20px';
         loadingIndicator.style.borderRadius = '5px';
+        loadingIndicator.style.zIndex = '9999';
         document.body.appendChild(loadingIndicator);
 
         fetch(url)
-            .then(response => {
-                if (!response.ok) throw new Error('Network response was not ok');
-                return response.text();
-            })
+            .then(res => res.text())
             .then(html => {
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, 'text/html');
-                const content = doc.querySelector(className);
-
+                const content = doc.querySelector('.post');
                 if (!content) {
-                    console.error(`No element with class "${className}" found!`);
+                    alert('Không tìm thấy nội dung PDF');
                     document.body.removeChild(loadingIndicator);
                     return;
                 }
 
-                content.style.fontSize = '30px';
-                content.style.lineHeight = '40px';
-
-                const tableCells = content.querySelectorAll('.table tbody td');
-                tableCells.forEach(cell => {
-                    cell.style.fontSize = '30px';
-                    cell.style.fontFamily = 'Arial, sans-serif';
-                    cell.style.padding = '5px';
-                    cell.style.border = '1px solid #000';
-                });
-
-                const tempDiv = document.createElement('div');
+                const tempDiv = document.getElementById('pdf-content');
+                tempDiv.innerHTML = '';
                 tempDiv.appendChild(content.cloneNode(true));
-                document.body.appendChild(tempDiv);
+                tempDiv.style.fontSize = '24px';
+                tempDiv.style.lineHeight = '1.8';
+                tempDiv.style.fontFamily = 'Arial, sans-serif';
+                tempDiv.style.display = 'block';
+                tempDiv.style.width = '794px';
+                tempDiv.style.padding = '10px';
+                tempDiv.style.boxSizing = 'border-box';
+                tempDiv.style.background = '#fff';
 
-                html2canvas(tempDiv).then(canvas => {
-                    const imgData = canvas.toDataURL('image/png');
-                    const {
-                        jsPDF
-                    } = window.jspdf;
+                const { jsPDF } = window.jspdf;
+                const pdf = new jsPDF('p', 'mm', 'a4');
+                const pdfWidth = pdf.internal.pageSize.getWidth();
+                const pdfHeight = pdf.internal.pageSize.getHeight();
+                const margin = 16;
 
-                    const pdf = new jsPDF({
-                        orientation: 'portrait',
-                        unit: 'mm',
-                        format: 'a4',
+                html2canvas(tempDiv, { scale: 4, useCORS: true, scrollY: 0, backgroundColor: '#ffffff' })
+                    .then(canvas => {
+                        const imgWidth = pdfWidth - 2 * margin;
+                        const imgHeight = (canvas.height * imgWidth) / canvas.width;
+                        let heightLeft = imgHeight;
+                        let position = 0;
+                        while (heightLeft > 0) {
+                            const pageCanvas = document.createElement('canvas');
+                            const ctx = pageCanvas.getContext('2d');
+                            pageCanvas.width = canvas.width;
+                            pageCanvas.height = Math.min(canvas.height - position, (canvas.width / imgWidth) * (pdfHeight - 2 * margin));
+                            ctx.drawImage(canvas, 0, position, canvas.width, pageCanvas.height, 0, 0, canvas.width, pageCanvas.height);
+                            const imgData = pageCanvas.toDataURL('image/png');
+                            const pageImgHeight = (pageCanvas.height * imgWidth) / canvas.width;
+                            if (position > 0) pdf.addPage();
+                            pdf.addImage(imgData, 'PNG', margin, margin, imgWidth, pageImgHeight);
+                            heightLeft -= pageImgHeight;
+                            position += pageCanvas.height;
+                        }
+                        pdf.save(pdfName);
+                        tempDiv.style.display = 'none';
+                        document.body.removeChild(loadingIndicator);
                     });
-
-                    const a4Width = pdf.internal.pageSize.getWidth();
-                    const a4Height = pdf.internal.pageSize.getHeight();
-                    const imgWidth = a4Width - 20;
-                    const imgHeight = (canvas.height * imgWidth) / canvas.width;
-
-                    let heightLeft = imgHeight;
-                    let position = 10;
-
-                    pdf.addImage(imgData, 'PNG', 10, position, imgWidth, imgHeight);
-                    heightLeft -= pdf.internal.pageSize.height;
-
-                    while (heightLeft >= 0) {
-                        position = heightLeft - imgHeight;
-                        pdf.addPage();
-                        pdf.addImage(imgData, 'PNG', 10, position, imgWidth, imgHeight);
-                        heightLeft -= pdf.internal.pageSize.height;
-                    }
-
-                    pdf.save(pdfName);
-                    document.body.removeChild(tempDiv);
-                    document.body.removeChild(loadingIndicator);
-                });
             })
             .catch(err => {
-                console.error('Error fetching page:', err);
+                console.error(err);
                 document.body.removeChild(loadingIndicator);
             });
     }
+
+
+
 
     async function fetchAndGeneratePDFs(urls, className, pdfName) {
         const loadingIndicator = document.createElement('div');

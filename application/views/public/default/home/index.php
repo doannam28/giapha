@@ -6,7 +6,7 @@
     <div class="stele__content">
         <h2 class="stele__title">GIA PHẢ HỌ HOÀNG</h2>
        <!-- <div class="stele__desc">CÀNH HỒNG THANH</div>-->
-        <div class="stele__address">Bắc Giang</div>
+        <div class="stele__address">Đìa Đông - Bắc Giang</div>
         <div class="category">
             <ul class="category__list">
                 <li class="category__item">
@@ -33,7 +33,7 @@
         </div>
         <p class="stele__info">
             Năm biên soạn: 2025<br />
-            Người biên soạn: Hoàng Ngọc Quang<br />
+            <!--Người biên soạn: Hoàng Ngọc Quang<br />-->
         </p>
     </div>
 </div>

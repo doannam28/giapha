@@ -107,11 +107,11 @@
                     class="button <?= $this->router->fetch_method() == 'huong_hoa' ? 'button--primary' : '' ?>"> Hương
                     Hỏa </a>
             </li>
-            <li class="category__item">
-                <a href="<?= site_url('gia-pha/ngay-gio') ?>"
-                    class="button <?= $this->router->fetch_method() == 'ngay_gio' ? 'button--primary' : '' ?>"> Ngày giỗ
+            <!--<li class="category__item">
+                <a href="<?/*= site_url('gia-pha/ngay-gio') */?>"
+                    class="button <?/*= $this->router->fetch_method() == 'ngay_gio' ? 'button--primary' : '' */?>"> Ngày giỗ
                 </a>
-            </li>
+            </li>-->
         </ul>
     </div>
     <div class="search-div d-none d-lg-block">
@@ -147,50 +147,57 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     const input = document.getElementById('input_search');
-    $(document).ready(function() {
+    $(document).ready(function () {
         const $resultContainer = $('.result');
         let debounceTimer;
 
-        $('#input_search').on('input', function() {
+        $('#input_search').on('keyup', function () {
             clearTimeout(debounceTimer);
+
             const value = $(this).val().trim();
 
-            debounceTimer = setTimeout(() => {
-                if (value !== '') {
-                    $.ajax({
-                        url: '<?= site_url('family/search') ?>',
-                        type: 'POST',
-                        data: {
-                            query: value
-                        },
-                        success: function(response) {
-                            $resultContainer.show();
-                            $resultContainer.empty();
-
-                            JSON.parse(response).forEach(item => {
-                                const contactHtml = `
-                                    <div class="contact" onclick="redirect(${item.id})">
-                                        <img src="${item.thumbnail || '/public/default-thumbnail.webp'}" alt="Profile">
-                                        <span>${item.full_name}</span>
-                                    </div>
-                                `;
-                                $resultContainer.append(contactHtml);
-                            });
-                        },
-                        error: function(xhr, status, error) {
-                            console.error('Error:', error);
-                            $resultContainer.hide();
-                        }
-                    });
-                } else {
+            debounceTimer = setTimeout(function () {
+                if (!value) {
                     $resultContainer.hide();
+                    return;
                 }
-            }, 1000);
+
+                $.ajax({
+                    url: '<?= site_url('family/search') ?>',
+                    type: 'POST',
+                    data: { query: value },
+                    dataType: 'json', // ✅ TRÁNH JSON.parse LỖI TRÊN MOBILE
+                    success: function (response) {
+                        $resultContainer.show().empty();
+
+                        response.forEach(function (item) {
+                            const contactHtml = `
+                            <div class="contact" data-id="${item.id}">
+                                <img src="${item.thumbnail || '/public/default-thumbnail.webp'}" alt="Profile">
+                                <span>${item.full_name}</span>
+                            </div>
+                        `;
+                            $resultContainer.append(contactHtml);
+                        });
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Error:', error);
+                        $resultContainer.hide();
+                    }
+                });
+            }, 400); // ✅ mobile nên giảm debounce
+        });
+
+        // ✅ BẮT SỰ KIỆN CLICK ĐÚNG CHO MOBILE
+        $(document).on('click', '.contact', function () {
+            const id = $(this).data('id');
+            redirect(id);
         });
     });
 
 
     function redirect(id) {
+        if (!id) return;
         window.location.href = '<?= site_url('pha-do-chi-tiet/') ?>' + id;
-    }
+    };
 </script>

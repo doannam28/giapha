@@ -239,8 +239,8 @@ class Graduate extends Admin_Controller
         $this->checkRequestPostAjax();
         $data = $this->_convertData();
         $id = $data['id'];
-        $data_old = $this->_graduate->single(['person_id' => $id], $this->_graduate->table);
-        if ($this->_graduate->update(['person_id' => $id], $data, $this->_graduate->table)) {
+        $data_old = $this->_graduate->single(['id' => $id], $this->_graduate->table);
+        if ($this->_graduate->update(['id' => $id], $data, $this->_graduate->table)) {
             $note = 'Update category có id là : ' . $id;
             $this->addLogaction('category', $data_old, $id, $note, 'Update');
             $message['type'] = 'success';

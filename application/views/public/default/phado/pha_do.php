@@ -30,7 +30,7 @@
         Nhấn vào tên mỗi người để biết thông tin chi tiết<br />
         Nhấn vào dấu [ + ] để xem các đời sau (nếu có)
     </div>
-    <div class="Viewed" id="wraper-chart" style="overflow: auto;"><div id="chart-genealogy"></div></div>
+    <div class="Viewed" id="chart--mini" style="overflow: auto;"><div id="chart-genealogy"></div></div>
     <div class="legend">
         <div class="legend__title">CHÚ THÍCH</div>
         <div class="legend__list">

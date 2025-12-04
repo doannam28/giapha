@@ -1,5 +1,5 @@
 <div class="title">
-    <h2>BẢNG TRẠNG NGUYÊN</h2>
+    <h2>BẢNG VÀNG</h2>
 </div>
 <div class="content" style="min-height: 400px;">
     <div class="status">
@@ -21,7 +21,7 @@
                             <th>Số thứ tự</th>
                             <th>Họ và tên</th>
                             <th>Tên bố (mẹ)</th>
-                            <th>Tên trường</th>
+                            <th>Thành tích</th>
                         </tr>
                     </thead>
                     <tbody>

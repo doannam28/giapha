@@ -6,7 +6,7 @@ $info = getInfo();
         <div class="content">
             <div class="column">
                 <div class="logo">
-                    <h2>TRANG THÔNG TIN GIA PHẢ HỌ HOÀNG</h2>
+                    <h2>TRANG THÔNG TIN GIA PHẢ HỌ HOÀNG - ĐÌA ĐÔNG, BẮC GIANG</h2>
                 </div>
                 <div class="info">
                     <?= $info->footer_info ?>

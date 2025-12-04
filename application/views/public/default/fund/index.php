@@ -32,9 +32,9 @@ $bank_info = getInfo('data_email')
             <?php if ($type == 'quy-khuyen-hoc'): ?>
                 đóng góp quỹ khuyến học
             <?php elseif ($type == 'quy-dong-ho'): ?>
-                đóng góp quỹ dòng Đỗ
+                đóng góp quỹ dòng họ Hoàng
             <?php else: ?>
-                chi tiêu quỹ Đỗ
+                chi tiêu quỹ dòng họ Hoàng
             <?php endif; ?>
         </div>
         <div class="table table--scroll">
