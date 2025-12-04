@@ -116,10 +116,10 @@
     </div>
     <div class="search-div d-none d-lg-block">
             <div class="nav__search">
-                <input type="text" placeholder="Tìm kiếm tên thành viên" id="input_search" name="tu-khoa" />
+                <input type="text" placeholder="Tìm kiếm tên thành viên" id="input_search" class="input_search" data="desktop" name="tu-khoa" />
             </div>
         </div>
-        <div class="result" style="display:none">
+        <div class="result result_desktop" style="display:none">
             <div class="contact">
                 <img src="/public/default-thumbnail.webp" alt="Profile">
                 <span>Dương Trung Liên</span>
@@ -128,9 +128,9 @@
 </div>
 <div class="search-div d-block d-lg-none">
     <div class="nav__search">
-        <input type="text" placeholder="Tìm kiếm tên thành viên" id="input_search" name="tu-khoa" />
+        <input type="text" placeholder="Tìm kiếm tên thành viên" id="input_search" data="mobile" class="input_search" name="tu-khoa" />
     </div>
-    <div class="result" style="display:none">
+    <div class="result result_mobile" style="display:none">
         <div class="contact">
             <img src="/public/default-thumbnail.webp" alt="Profile">
             <span>Dương Trung Liên</span>
@@ -146,58 +146,48 @@
 </div>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-    const input = document.getElementById('input_search');
-    $(document).ready(function () {
-        const $resultContainer = $('.result');
+    $(document).ready(function() {
         let debounceTimer;
-
-        $('#input_search').on('keyup', function () {
+        $('.input_search').on('input', function() {
+            const $resultContainer = $('.result_'+$(this).attr('data'));
             clearTimeout(debounceTimer);
-
             const value = $(this).val().trim();
 
-            debounceTimer = setTimeout(function () {
-                if (!value) {
+            debounceTimer = setTimeout(() => {
+                if (value !== '') {
+                    $.ajax({
+                        url: '<?= site_url('family/search') ?>',
+                        type: 'POST',
+                        data: {
+                            query: value
+                        },
+                        success: function(response) {
+                            $resultContainer.show();
+                            $resultContainer.empty();
+                            JSON.parse(response).forEach(item => {
+                                const contactHtml = `
+                                    <div class="contact" onclick="redirect(${item.id})">
+                                        <img src="${item.thumbnail || '/public/default-thumbnail.webp'}" alt="Profile">
+                                        <span>${item.full_name}</span>
+                                    </div>
+                                `;
+                                $resultContainer.append(contactHtml);
+                            });
+                        },
+                        error: function(xhr, status, error) {
+                            console.error('Error:', error);
+                            $resultContainer.hide();
+                        }
+                    });
+                } else {
                     $resultContainer.hide();
-                    return;
                 }
-
-                $.ajax({
-                    url: '<?= site_url('family/search') ?>',
-                    type: 'POST',
-                    data: { query: value },
-                    dataType: 'json', // ✅ TRÁNH JSON.parse LỖI TRÊN MOBILE
-                    success: function (response) {
-                        $resultContainer.show().empty();
-
-                        response.forEach(function (item) {
-                            const contactHtml = `
-                            <div class="contact" data-id="${item.id}">
-                                <img src="${item.thumbnail || '/public/default-thumbnail.webp'}" alt="Profile">
-                                <span>${item.full_name}</span>
-                            </div>
-                        `;
-                            $resultContainer.append(contactHtml);
-                        });
-                    },
-                    error: function (xhr, status, error) {
-                        console.error('Error:', error);
-                        $resultContainer.hide();
-                    }
-                });
-            }, 400); // ✅ mobile nên giảm debounce
-        });
-
-        // ✅ BẮT SỰ KIỆN CLICK ĐÚNG CHO MOBILE
-        $(document).on('click', '.contact', function () {
-            const id = $(this).data('id');
-            redirect(id);
+            }, 1000);
         });
     });
 
 
     function redirect(id) {
-        if (!id) return;
         window.location.href = '<?= site_url('pha-do-chi-tiet/') ?>' + id;
     };
 </script>

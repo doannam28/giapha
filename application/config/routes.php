@@ -87,6 +87,7 @@ $route['tim-kiem'] = 'intro/search';
 
 $route['pdf/gia_pha'] = 'family/pdf_gia_pha';
 $route['pdf/huong_hoa'] = 'family/pdf_huong_hoa';
+$route['pdf/count_huong_hoa'] = 'family/count_huong_hoa';
 $route['uploads/(.*)'] = function ($file) {
     // Trả về file trực tiếp từ thư mục uploads
     $path = FCPATH . 'uploads/' . $file;

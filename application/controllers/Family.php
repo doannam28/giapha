@@ -570,8 +570,17 @@ class Family extends Public_Controller
 
         // Fetch total records and paginated records
         $total_records = $this->_family->count_user_die(); // Implement count_by_type in your model
+        $data['total_records'] = $total_records;
         $data['list_user'] = $this->_family->get_user_die_paginated($per_page, $offset);
         $this->load->view($this->template_path . 'pdf/huong_hoa', $data);
+    }
+    public function count_huong_hoa()
+    {
+        $total_records = $this->_family->count_user_die();
+        echo json_encode([
+            'total_records' => $total_records
+        ]);
+        exit;
     }
     public function search()
     {

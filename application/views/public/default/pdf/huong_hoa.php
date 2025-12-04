@@ -15,7 +15,7 @@
                 <div class="content">
                     <div class="genealogy">
                         <div class="panel post post--table">
-                            <div class="post__title">
+                            <div class="post__title" style="font-size: 40px;">
                                 Hương hỏa họ Hoàng: Bắc Giang
                             </div>
                             <div class="table">

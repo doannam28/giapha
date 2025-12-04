@@ -1812,9 +1812,10 @@ html {
 .contact {
   display: flex;
   gap: 30px; }
-  @media (max-width: 860px) {
+ /* @media (max-width: 860px) {
     .contact {
-      flex-direction: column; } }
+      flex-direction: column; }
+  }*/
   .contact__item {
     flex: 1; }
   .contact__title {

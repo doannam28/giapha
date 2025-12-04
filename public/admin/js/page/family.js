@@ -185,9 +185,15 @@ $(function () {
                     $('select[name="husband_id"]').closest('.form-group').hide();
                     $('.wife').show();
                     $("#quanHe").prop('disabled', false);
+                    loadFamily(response.data_father);
+                    loadHusband(response.data_husband);
                     $.each(response.data_info, function (key, value) {
                         let element = modal_form.find('[name="' + key + '"]');
-                        element.val(value);
+                        if(key === "mother_id"){
+                            loadWife(response.data_mother, value);
+                        }else{
+                            element.val(value);
+                        }
                         if (element.hasClass('switchBootstrap')) {
                             element.bootstrapSwitch('state', (value == 1 ? true : false));
                         }
@@ -228,9 +234,6 @@ $(function () {
                             // $("#quanHe").html('<option value="">Chọn</option><option value="Anh trai">Anh trai</option><option value="Chị gái">Chị gái</option><option value="Em trai">Em trai</option><option value="Em gái">Em gái</option>');
                         }
                     });
-                    loadFamily(response.data_father);
-                    loadWife(response.data_mother);
-                    loadHusband(response.data_husband);
                     modal_form.modal('show');
                     const data = response.data_info;
                     $('#type').text(type);
@@ -332,7 +335,7 @@ function loadCategory(dataSelected) {
     if (typeof dataSelected !== 'undefined') selector.find('> option').prop("selected", "selected").trigger("change");
 }
 
-function loadWife(dataSelected) {
+function loadWife(dataSelected, valueSelected) {
     let selector = $('select.mother');
     let father_id = $('.father').val();
     selector.select2({
@@ -363,7 +366,9 @@ function loadWife(dataSelected) {
             cache: !0
         }
     });
-    if (typeof dataSelected !== 'undefined') selector.find('> option').prop("selected", "selected").trigger("change");
+    if (valueSelected) {
+        selector.val(valueSelected).trigger('change');
+    }
 }
 
 function loadFamily(dataSelected) {

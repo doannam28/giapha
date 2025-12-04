@@ -331,12 +331,32 @@
                 }
 
                 if (checkbox.value == 'huong-hoa') {
-                    fetchAndGeneratePDFs(['<?= base_url('pdf/huong_hoa?page=1&limit=40'); ?>', '<?= base_url('pdf/huong_hoa?page=2&limit=40'); ?>'], '.genealogy', 'Huong_hoa.pdf');
+                    generateHuongHoaPDF();
                 }
             }
         });
     });
 
+    function generateHuongHoaPDF() {
+        $.ajax({
+            url: "<?= base_url('pdf/count_huong_hoa'); ?>",
+            type: "GET",
+            dataType: "json",
+            success: function (response) {
+                const total = response.total_records;
+                const limit = 34;
+                const totalPage = Math.ceil(total / limit);
+                let urls = [];
+                for (let i = 1; i <= totalPage; i++) {
+                    urls.push("<?= base_url('pdf/huong_hoa'); ?>?page=" + i + "&limit=" + limit);
+                }
+                fetchAndGeneratePDFs(urls, ".genealogy", "Huong_hoa.pdf");
+            },
+            error: function (xhr) {
+                console.log("Lỗi khi lấy dữ liệu count:", xhr.responseText);
+            }
+        });
+    }
     function fetchAndGeneratePDF(url, pdfName) {
         const loadingIndicator = document.createElement('div');
         loadingIndicator.innerText = 'Đang tạo PDF...';
