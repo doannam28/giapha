@@ -24,11 +24,11 @@
                         Hương Hỏa
                     </a>
                 </li>
-                <li class="category__item">
-                    <a href="<?= site_url('/gia-pha/ngay-gio') ?>" class="button button--primary">
+                <!--<li class="category__item">
+                    <a href="<?/*= site_url('/gia-pha/ngay-gio') */?>" class="button button--primary">
                         Ngày giỗ
                     </a>
-                </li>
+                </li>-->
             </ul>
         </div>
         <p class="stele__info">

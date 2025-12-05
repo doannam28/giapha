@@ -289,35 +289,35 @@
                     let c3d = document.getElementById('chart--mini');
                     if (c3d) {
                         const element = document.getElementById('chart--mini');
-                        html2canvas(element).then(canvas => {
-                            const imgData = canvas.toDataURL('image/png');
-                            const {
-                                jsPDF
-                            } = window.jspdf;
-
-                            const a4Width = 297 * 2.83465;
-                            const a4Height = 210 * 2.83465;
-
-                            const imgWidth = canvas.width;
-                            const imgHeight = canvas.height;
-
-                            const widthRatio = a4Width / imgWidth;
-                            const heightRatio = a4Height / imgHeight;
-                            const scale = Math.min(widthRatio, heightRatio);
-
-                            const newWidth = imgWidth * scale;
-                            const newHeight = imgHeight * scale;
+                        html2canvas(element, {
+                            scale: 3,
+                            useCORS: true,
+                            backgroundColor: '#fff'
+                        }).then(canvas => {
+                            const imgData = canvas.toDataURL('image/png', 1.0);
+                            const { jsPDF } = window.jspdf;
 
                             const pdf = new jsPDF({
                                 orientation: 'landscape',
                                 unit: 'pt',
-                                format: 'a4',
+                                format: [2384, 1684]
                             });
 
-                            const xOffset = (a4Width - newWidth) / 2;
-                            const yOffset = (a4Height - newHeight) / 2;
+                            const pdfWidth = pdf.internal.pageSize.getWidth();
+                            const pdfHeight = pdf.internal.pageSize.getHeight();
 
-                            pdf.addImage(imgData, 'PNG', xOffset, yOffset, newWidth, newHeight);
+                            const imgWidth = canvas.width;
+                            const imgHeight = canvas.height;
+
+                            const ratio = Math.min(pdfWidth / imgWidth, pdfHeight / imgHeight);
+
+                            const newWidth = imgWidth * ratio;
+                            const newHeight = imgHeight * ratio;
+
+                            const x = (pdfWidth - newWidth) / 2;
+                            const y = (pdfHeight - newHeight) / 2;
+
+                            pdf.addImage(imgData, 'PNG', x, y, newWidth, newHeight);
                             pdf.save('Pha_do.pdf');
                         });
                     } else {
