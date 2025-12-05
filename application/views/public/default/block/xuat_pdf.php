@@ -288,8 +288,7 @@
                 if (checkbox.value == 'pha-do') {
                     let c3d = document.getElementById('chart--mini');
                     if (c3d) {
-                        const element = document.getElementById('chart--mini');
-                        html2canvas(element, {
+                        html2canvas(c3d, {
                             scale: 3,
                             useCORS: true,
                             backgroundColor: '#fff'

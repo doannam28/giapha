@@ -107,7 +107,7 @@
     
         function initializePanzoom() {
             if (chartWidth > 600) {
-                let minZoom = 0.1;
+                let minZoom = 0.02;
                 if (chartWidth < 600) minZoom = 0.5;
                 var scaleValue = getCookie("scale");
                 return Panzoom(elem, {
